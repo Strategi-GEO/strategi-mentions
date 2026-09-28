@@ -1,4 +1,4 @@
--- Hemingway :: row level security
+-- Strategi Mentions :: row level security
 -- Internal single-org tool: RLS is enabled on every table from day one
 -- (docs/data-model.md). Policy model: `authenticated` (our team) gets full
 -- access, `anon` gets nothing (no policy = deny). The server-side service_role

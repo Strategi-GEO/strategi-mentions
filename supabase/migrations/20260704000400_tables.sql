@@ -1,4 +1,4 @@
--- Hemingway :: tables
+-- Strategi Mentions :: tables
 -- Every table carries id (uuid), created_at, updated_at per docs/data-model.md.
 --
 -- EMBEDDING DIMENSION: 1024, matching the llm provider `embed` output (Voyage

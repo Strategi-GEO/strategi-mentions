@@ -1,4 +1,4 @@
--- Hemingway :: enum types
+-- Strategi Mentions :: enum types
 -- Column-level enums from docs/data-model.md. `vertical` is shared by
 -- publications and clients. The word "source" appears on two tables with
 -- different value sets, so there are two distinct source enums:

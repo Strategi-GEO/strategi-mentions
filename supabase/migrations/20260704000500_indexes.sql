@@ -1,4 +1,4 @@
--- Hemingway :: indexes
+-- Strategi Mentions :: indexes
 -- FK lookups, common list filters, and HNSW cosine indexes for vector matching.
 -- HNSW is used over ivfflat: it needs no training data, so it works on the
 -- empty tables a fresh migration produces and stays accurate as rows arrive.

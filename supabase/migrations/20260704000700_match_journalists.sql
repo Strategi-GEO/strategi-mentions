@@ -1,4 +1,4 @@
--- Hemingway :: matching RPC
+-- Strategi Mentions :: matching RPC
 -- Ranks journalists against a story-angle embedding using pgvector cosine
 -- similarity, blending the journalist profile embedding with their single best
 -- recent article embedding (docs/data-model.md "Matching").

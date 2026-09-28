@@ -1,4 +1,4 @@
--- Hemingway :: shared functions
+-- Strategi Mentions :: shared functions
 -- updated_at maintenance. A single trigger function is attached to every
 -- table in the tables migration so updated_at always tracks the last write.
 

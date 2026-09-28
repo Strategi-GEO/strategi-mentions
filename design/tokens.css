@@ -1,5 +1,5 @@
 /*
- * Hemingway design tokens
+ * Strategi Mentions design tokens
  * Source of truth for the visual system in docs/ui-style.md. Framework-agnostic
  * CSS custom properties: these drop into app/globals.css once the Next.js app is
  * scaffolded, and map to Tailwind theme values / shadcn CSS variables from there.

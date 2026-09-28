@@ -1,6 +1,6 @@
-# Hemingway demo
+# Strategi Mentions demo
 
-Hemingway is Strategi's internal PR operations platform: our team runs client
+Strategi Mentions is Strategi's internal PR operations platform: our team runs client
 media outreach through it end to end. Clients never log in; they receive
 placements and reports. This file is the exact demo script plus a fresh-clone
 setup that gets you from `git clone` to a running demo in under five minutes.

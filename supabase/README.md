@@ -1,6 +1,6 @@
-# Hemingway database
+# Strategi Mentions database
 
-SQL migrations for the Hemingway data model (see `docs/data-model.md`). This
+SQL migrations for the Strategi Mentions data model (see `docs/data-model.md`). This
 pass is schema only: no application scaffold and no `/lib/db` query layer yet.
 
 ## Migrations

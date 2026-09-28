@@ -1,4 +1,4 @@
-# Hemingway design foundation
+# Strategi Mentions design foundation
 
 The committable form of `docs/ui-style.md`. This pass is tokens + a rendered
 style guide only. No Next.js scaffold, no dependencies, no shadcn yet.

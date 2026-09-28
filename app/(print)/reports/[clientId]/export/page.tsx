@@ -184,7 +184,7 @@ export default async function ReportExportPage({
 
           <footer className="mt-12 border-t border-neutral-200 pt-4 text-xs text-neutral-400">
             Prepared by Strategi. Backlinks and AI mentions sourced from DataForSEO; coverage from the
-            Hemingway media operations log.{report.isMock ? " Figures shown are Sandbox data." : ""}{" "}
+            Strategi Mentions media operations log.{report.isMock ? " Figures shown are Sandbox data." : ""}{" "}
             Confidential. For the client named above.
           </footer>
         </article>

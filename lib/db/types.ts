@@ -1,5 +1,5 @@
 /*
- * Database types for the Hemingway schema (supabase/migrations).
+ * Database types for the Strategi Mentions schema (supabase/migrations).
  *
  * Hand-written to match the migrations exactly, in the shape `supabase gen types`
  * would produce, so /lib/db query functions are fully typed. When a live Supabase

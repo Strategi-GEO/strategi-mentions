@@ -1,5 +1,5 @@
 # Functional Specification Document
-## Hemingway: PR and Earned Media Platform for Strategi Clients
+## Strategi Mentions: PR and Earned Media Platform for Strategi Clients
 
 **Date:** July 2026
 **Status:** For internal approval
@@ -9,7 +9,7 @@
 
 ## 1. Execution summary
 
-Hemingway is an internal Strategi platform: our team uses it to run PR and media outreach on behalf of clients, who never access the app and simply receive placements and reports. It is built on the exact stack and patterns of Tolstoy, our existing CMS. It is assembled in four modules over four phases, starting with a fully manual, billable pilot so the app encodes a proven workflow instead of a guess. Total time to a working platform: 13 to 14 weeks. New recurring spend at launch: roughly ₹15,000 to ₹30,000 per month, almost all usage-based, scaling only with paying clients.
+Strategi Mentions is an internal Strategi platform: our team uses it to run PR and media outreach on behalf of clients, who never access the app and simply receive placements and reports. It is built on the exact stack and patterns of Tolstoy, our existing CMS. It is assembled in four modules over four phases, starting with a fully manual, billable pilot so the app encodes a proven workflow instead of a guess. Total time to a working platform: 13 to 14 weeks. New recurring spend at launch: roughly ₹15,000 to ₹30,000 per month, almost all usage-based, scaling only with paying clients.
 
 Every spend decision in this document follows one principle: save wherever quality is unaffected, spend wherever quality is decided. The two places quality is decided in PR are deliverability (does the pitch reach the inbox) and pitch fit (is it sent to the right journalist with the right story). Those two get funded without compromise. Everything else runs on free tiers, existing subscriptions, or usage-based pricing until volume justifies more.
 

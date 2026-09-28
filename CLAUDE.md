@@ -1,4 +1,4 @@
-# Hemingway: internal PR operations platform for Strategi
+# Strategi Mentions: internal PR operations platform for Strategi
 
 ## What this is
 An internal web app our team uses to run PR and media outreach for clients.

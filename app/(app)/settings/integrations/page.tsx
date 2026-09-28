@@ -38,7 +38,7 @@ export default function IntegrationsPage() {
     <div className="space-y-6">
       <PageHeader
         title="Integrations"
-        description="Every external service Hemingway uses, its current mode, and what each needs to go live."
+        description="Every external service Strategi Mentions uses, its current mode, and what each needs to go live."
       />
 
       <p className="max-w-3xl text-sm text-muted-foreground">

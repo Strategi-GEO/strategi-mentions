@@ -25,7 +25,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hemingway",
+  title: "Strategi Mentions",
   description: "Internal PR and earned-media operations for Strategi.",
 };
 

@@ -14,7 +14,7 @@ import type { Client } from "@/lib/db/types";
 import { NAV_ITEMS } from "./nav";
 import { ClientSwitcher } from "./client-switcher";
 
-const STORAGE_KEY = "hemingway:sidebar-collapsed";
+const STORAGE_KEY = "strategi-mentions:sidebar-collapsed";
 
 export function Sidebar({
   clients,
@@ -50,11 +50,11 @@ export function Sidebar({
       )}
     >
       <Link href="/dashboard" className="flex items-center gap-2 px-1 py-1">
-        <span className="flex size-7 shrink-0 items-center justify-center rounded-md bg-primary text-sm font-bold text-primary-foreground">
-          H
+        <span className="flex size-7 shrink-0 items-center justify-center rounded-md bg-primary text-xs font-bold text-primary-foreground">
+          SM
         </span>
         {!collapsed && (
-          <span className="font-display text-base font-semibold tracking-tight">Hemingway</span>
+          <span className="font-display text-base font-semibold tracking-tight">Strategi Mentions</span>
         )}
       </Link>
 

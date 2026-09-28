@@ -1,4 +1,4 @@
-# Hemingway Prompt Pack
+# Strategi Mentions Prompt Pack
 Everything below goes into the repo before the first Claude Code session. Part A is the files to create. Part B is the exact prompt to paste for each session. Copy verbatim, adjust names only where marked.
 
 ---
@@ -10,7 +10,7 @@ Everything below goes into the repo before the first Claude Code session. Part A
 ## FILE 1: CLAUDE.md (repo root)
 
 ```markdown
-# Hemingway: internal PR operations platform for Strategi
+# Strategi Mentions: internal PR operations platform for Strategi
 
 ## What this is
 An internal web app our team uses to run PR and media outreach for clients.
@@ -60,7 +60,7 @@ monitor events waiting, and a reporting view with charts.
 
 ## FILE 2: /docs/fsd.md
 
-Paste the FSD we already wrote (hemingway-fsd.md) here unchanged.
+Paste the FSD we already wrote (strategi-mentions-fsd.md) here unchanged.
 
 ---
 

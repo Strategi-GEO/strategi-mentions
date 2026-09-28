@@ -1,4 +1,4 @@
-# Hemingway
+# Strategi Mentions
 
 Internal PR and earned-media operations platform for Strategi. Our team runs
 client media outreach through it end to end. Clients never log in; they receive
@@ -11,7 +11,7 @@ pgvector), Tailwind + shadcn/ui, Zod, and the Anthropic API. See
 
 ## The mental model
 
-Hemingway is an internal tool. Everything except the Media Database is scoped to
+Strategi Mentions is an internal tool. Everything except the Media Database is scoped to
 an **active client** you pick from the switcher at the top left (stored in a
 cookie by [setActiveClient](components/app/shell/actions.ts)). The Media Database
 is the one shared asset: built once per vertical and reused across every client
